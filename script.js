@@ -17,7 +17,6 @@ function init() {
     ctx.fillRect(0, 0, mywidth, myheight);
 }
 
-
 var ballRadius = (mywidth+myheight)/120;
 var x = canvas.width/2;
 var y = canvas.height - 30;
